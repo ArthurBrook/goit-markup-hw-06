@@ -577,7 +577,7 @@ img {
 .modal-input {
    width: 100%;
    height: 40px;
-   border: 1px solid rgba(33, 33, 33, 0.2);;
+   border: 1px solid rgba(33, 33, 33, 0.2);
    border-radius: 4px;
    outline: transparent;
    padding-left: 16px;
@@ -604,7 +604,7 @@ img {
 }
 
 .modal-input-text {
-   margin-bottom: 88px;
+   margin-bottom: 8px;
 }
 
 .modal-input-icon {
